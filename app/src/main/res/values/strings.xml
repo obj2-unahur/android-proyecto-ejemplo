@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoEjemplo</string>
+
+    <string name="contador_n">Contador: %d</string>
+    <string name="incrementar_contador">Incrementar contador</string>
+    <string name="reiniciar">Reiniciar</string>
+</resources>
